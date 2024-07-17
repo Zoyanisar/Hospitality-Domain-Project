@@ -1,5 +1,7 @@
 # Hospitality-Domain-Project
 
+Live Dashboard Link: https://app.powerbi.com/groups/me/reports/2d3c25dc-51fc-4573-adf1-bd5116df26b1/d58b5be9189c5b0041d5?experience=power-bi
+
 **Project Overview**
 
 This project, part of the Codebasics resume challenge, addresses the challenges faced by AtliQ Grands in the competitive luxury hotel segment. By leveraging data-driven strategies and business intelligence, the goal is to improve market positioning and revenue growth.
